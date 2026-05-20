@@ -20,7 +20,7 @@ Used `LAG` and `OVER (ORDER BY sale_date)` to compare each day's sales to the pr
 
 ### 2. Top Products
 Found the top 5 products by revenue using `GROUP BY`, `ORDER BY`, and `LIMIT`.
-![Top Products](top_poduct.png)
+![Top Products](top_product.png)
 
 ### 3. Revenue by Category
 Aggregated sales data to see which category performs best.
